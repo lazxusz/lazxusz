@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>LazxusZ Portfolio</title>
+</head>
+
+<body>
+    <center>
+        <span style="color: #000000;">
+            <h2>LazxusZ Fantasy</span></h2>
+       
+        <img src="https://www.finalfantasyxiv.com/imgs/xivlogo.png" 
+        height="350" width="600">
+
+        <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/cki4a2LJVF8?autoplay=1" 
+        frameborder="1" allowfullscreen></iframe>
+
+        <p>
+            <h4>
+                <span style="color: #582fec;">
+                    <h2>พร้อมจะเริ่มแล้วหรือยัง คลิกข้างล่างสิ</h2></span>
+                <a href="https://www.finalfantasyxiv.com/"><h1>Start</h1></a></span><br>
+            </h4>
+        </p>
+        
+    </center>
+</body>
+
+</html>
